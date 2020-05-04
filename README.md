@@ -24,9 +24,9 @@ If you're using Node / Webpack / Rollup / Browserify, etc, simply require the la
 
 ```javascript
 var hljs = require('highlightjs');
-var hljsVba = require('highlightjs-unicorn-rails-log');
+var hljsUniRails = require('highlightjs-unicorn-rails-log');
 
-hljs.registerLanguage("unicorn-rails-log", hljsVba);
+hljs.registerLanguage("unicorn-rails-log", hljsUniRails);
 hljs.initHighlightingOnLoad();
 ```
 

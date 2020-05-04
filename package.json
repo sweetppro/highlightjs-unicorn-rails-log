@@ -1,0 +1,28 @@
+{
+    "name": "highlightjs-unicorn-rails-log",
+    "version": "0.1",
+    "description": "Syntax highlighting using highlight.js for Unicorn Ruby on Rails log files",
+    "main": "src/unicorn-rails-log.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sweetppro/highlightjs-unicorn-rails-log.git"
+    },
+    "keywords": [
+        "ruby",
+        "unicorn",
+        "rails",
+        "unicorn-rails-log",
+        "highlight.js",
+        "highlightjs",
+        "syntax"
+    ],
+    "author": "Russell Gray <rgray@sweetpproductions.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sweetppro/highlightjs-unicorn-rails-log/issues"
+    },
+    "homepage": "https://github.com/sweetppro/highlightjs-unicorn-rails-log"
+}

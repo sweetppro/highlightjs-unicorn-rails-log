@@ -7,7 +7,7 @@ Author: Russell Gray <rgray@sweetpproductions.com>
 
 export default function (hljs) {
   var UNICORN_KEYWORDS = {
-    keyword: 'Rendering Rendered Completed Started POST Processing by Redirected to Delivered mail ' + 'Performed GET in text template for at as HTML JS CSS within',
+    keyword: 'Rendering Rendered Completed Started POST Processing by Redirected to Delivered mail Performing layout Filter chain halted Enqueued ' + 'Performed GET in text template for at as HTML JS CSS within',
     literal: 'true false nil'
   };
 

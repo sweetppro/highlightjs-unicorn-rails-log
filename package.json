@@ -1,6 +1,6 @@
 {
     "name": "highlightjs-unicorn-rails-log",
-    "version": "0.1",
+    "version": "0.2",
     "description": "Syntax highlighting using highlight.js for Unicorn Ruby on Rails log files",
     "main": "src/unicorn-rails-log.js",
     "scripts": {
